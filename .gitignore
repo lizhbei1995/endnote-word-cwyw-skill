@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.tmp
+*.bak
+*.log
+.DS_Store
+Thumbs.db
+tmp/
+outputs/
+*.docx
+*.ris
+*.enw
+*.enl
+*.Data/

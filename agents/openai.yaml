@@ -1,0 +1,4 @@
+interface:
+  display_name: "EndNote Word CWYW"
+  short_description: "Repair Word EndNote citations and imports"
+  default_prompt: "Use $endnote-word-cwyw to convert a Word manuscript reference list into EndNote-updatable citations."
